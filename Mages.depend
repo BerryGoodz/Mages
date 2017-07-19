@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1499555042 source:c:\users\youngjoon\desktop\codeblocks\mages\main.cpp
+1500428546 source:c:\users\youngjoon\desktop\codeblocks\mages\main.cpp
 	<SFML/Graphics.hpp>
 	<SFML/Window.hpp>
 	<string>
@@ -15,7 +15,11 @@
 	<textDisplay.h>
 	<pickUp.h>
 	<KeyboardBinding.h>
+	<items.h>
 	<fstream>
+	<Projectile.h>
+	<SFML/Audio.hpp>
+	<SFML/System.hpp>
 
 1486761598 c:\users\youngjoon\desktop\new order\sfml-2.4.2\include\sfml\graphics.hpp
 	<SFML/Window.hpp>
@@ -528,15 +532,27 @@
 	<mobOutline.h>
 	<string>
 
-1499203552 source:c:\users\youngjoon\desktop\codeblocks\mages\src\pickup.cpp
+1499731401 source:c:\users\youngjoon\desktop\codeblocks\mages\src\pickup.cpp
 	"pickUp.h"
 
 1499203552 c:\users\youngjoon\desktop\codeblocks\mages\include\pickup.h
 	"mobOutline.h"
 
-1499492724 source:c:\users\youngjoon\desktop\codeblocks\mages\src\keyboardbinding.cpp
+1500061744 source:c:\users\youngjoon\desktop\codeblocks\mages\src\keyboardbinding.cpp
 	"KeyboardBinding.h"
 	<SFML/Graphics.hpp>
 
 1499405932 c:\users\youngjoon\desktop\codeblocks\mages\include\keyboardbinding.h
+
+1499819294 source:c:\users\youngjoon\desktop\codeblocks\mages\src\items.cpp
+	"items.h"
+
+1499723475 c:\users\youngjoon\desktop\codeblocks\mages\include\items.h
+	"mobOutline.h"
+
+1499972187 source:c:\users\youngjoon\desktop\codeblocks\mages\src\projectile.cpp
+	"Projectile.h"
+
+1499970089 c:\users\youngjoon\desktop\codeblocks\mages\include\projectile.h
+	"mobOutline.h"
 

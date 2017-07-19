@@ -2,10 +2,10 @@
 
 pickUp::pickUp()
 {
-   rect.setSize(sf::Vector2f(50,50));
+   //rect.setSize(sf::Vector2f(50,50));
    rect.setPosition(0,0);
    //rect.setScale(sf::Vector2f(0.5f, 0.5f));
-   sprite.setTextureRect(sf::IntRect(0,0,130,300));
+   sprite.setTextureRect(sf::IntRect(0,0,32,32));
 }
 
 void pickUp::update(){

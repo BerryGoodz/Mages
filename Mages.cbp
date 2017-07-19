@@ -52,12 +52,16 @@
 			<Add directory="C:/Users/Youngjoon/Desktop/New Order/SFML-2.4.2/lib" />
 		</Linker>
 		<Unit filename="include/KeyboardBinding.h" />
+		<Unit filename="include/Projectile.h" />
+		<Unit filename="include/items.h" />
 		<Unit filename="include/mob.h" />
 		<Unit filename="include/mobOutline.h" />
 		<Unit filename="include/pickUp.h" />
 		<Unit filename="include/textDisplay.h" />
 		<Unit filename="main.cpp" />
 		<Unit filename="src/KeyboardBinding.cpp" />
+		<Unit filename="src/Projectile.cpp" />
+		<Unit filename="src/items.cpp" />
 		<Unit filename="src/mob.cpp" />
 		<Unit filename="src/mobOutline.cpp" />
 		<Unit filename="src/pickUp.cpp" />
